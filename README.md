@@ -1,30 +1,30 @@
 # Josip Torić
 
-Asistent na Stručnom studiju Informacijske tehnologije Sveučilišta u Zadru i doktorand na Fakultetu elektrotehnike i računarstva u Zagrebu.
+Teaching assistant in the undergraduate professional study programme in Information Technology (SIT) at the University of Zadar, and PhD student at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
 
-Predmet mog istraživanja je *action quality assessment*: automatska procjena kvalitete izvedbe pokreta iz videosnimki.
+My research is on action quality assessment: automatically judging how well a movement is performed from video.
 
-## Nastava
+## Teaching
 
-Projekti koji nastaju na predavanjima i vježbama.
+Projects built during lectures and lab sessions. The course materials and repository READMEs are in Croatian.
 
-| Kolegij | Repozitorij | Tehnologije |
+| Course | Repository | Stack |
 | --- | --- | --- |
-| Programiranje za web (2026./2027.) | [situnizd-pzw-projekt](https://github.com/jtoric/situnizd-pzw-projekt) | FastAPI, SQLAlchemy, Vue 3, TypeScript |
-| Programiranje za web (2025./2026.) | [pzw-unizd-oglasnik](https://github.com/jtoric/pzw-unizd-oglasnik) | Flask, MongoDB |
-| Razvoj web aplikacija | [rwa-powerlifting-prijave](https://github.com/jtoric/rwa-powerlifting-prijave) | FastAPI, PostgreSQL, Vue 3 |
-| Uvod u web tehnologije | [uwt-training-programs](https://github.com/jtoric/uwt-training-programs) | HTML, CSS, JavaScript |
-| Priprema za STEM Games | [STEM-t-arena](https://github.com/jtoric/STEM-t-arena) | algoritmi, Python |
+| Web Programming (2026/27) | [situnizd-pzw-projekt](https://github.com/jtoric/situnizd-pzw-projekt) | FastAPI, SQLAlchemy, Vue 3, TypeScript |
+| Web Programming (2025/26) | [pzw-unizd-oglasnik](https://github.com/jtoric/pzw-unizd-oglasnik) | Flask, MongoDB |
+| Web Application Development | [rwa-powerlifting-prijave](https://github.com/jtoric/rwa-powerlifting-prijave) | FastAPI, PostgreSQL, Vue 3 |
+| Introduction to Web Technologies | [uwt-training-programs](https://github.com/jtoric/uwt-training-programs) | HTML, CSS, JavaScript |
+| STEM Games preparation | [STEM-t-arena](https://github.com/jtoric/STEM-t-arena) | algorithms, Python |
 
-## Web projekti
+## Web projects
 
-Kod ovih projekata nije javan, ali stranice jesu. Sve tri rade na FastAPI-ju, MongoDB-u i Vueu 3.
+The code for these is private, but the sites are live. All three run on FastAPI, MongoDB and Vue 3.
 
-- **[hpls-powerlifting.hr](https://www.hpls-powerlifting.hr/)**: web Hrvatskog powerlifting saveza s novostima, natjecanjima, državnim rekordima, kvalifikacijskim normama i poretkom klubova.
-- **[sit.unizd.hr](https://sit.unizd.hr/)**: web Stručnog prijediplomskog studija Informacijske tehnologije Sveučilišta u Zadru.
-- **[ispit.hpls-powerlifting.hr](https://ispit.hpls-powerlifting.hr/)**: online pismeni ispit za nacionalne suce Hrvatskog powerlifting saveza.
+- **[hpls-powerlifting.hr](https://www.hpls-powerlifting.hr/)**: website of the Croatian Powerlifting Federation, with news, competitions, national records, qualifying standards and club rankings.
+- **[sit.unizd.hr](https://sit.unizd.hr/)**: website of the Information Technology study programme at the University of Zadar.
+- **[ispit.hpls-powerlifting.hr](https://ispit.hpls-powerlifting.hr/)**: online written exam for national referees of the Croatian Powerlifting Federation.
 
-## Studentski radovi (FER)
+## Student work (FER)
 
-- [Diplomski rad, 2020.](https://github.com/jtoric/Master-Thesis-FER-2020)
-- [Završni rad, 2018.](https://github.com/jtoric/Bachelor-Thesis-FER-2018)
+- [Master's thesis, 2020](https://github.com/jtoric/Master-Thesis-FER-2020)
+- [Bachelor's thesis, 2018](https://github.com/jtoric/Bachelor-Thesis-FER-2018)
