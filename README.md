@@ -7,17 +7,17 @@ Teaching assistant in the undergraduate professional study programme in Informat
 
 ## Now
 
-- **[University of Zadar](https://sit.unizd.hr/)** · Teaching assistant in Information Technology (SIT)
-- **[FER, University of Zagreb](https://www.fer.unizg.hr/)** · PhD student, action quality assessment
-- **[Croatian Powerlifting Federation](https://www.hpls-powerlifting.hr/o-nama)** · Vice President and National Team Selector
-- **[PLK Nabildani Mozak](https://plknabildanimozak.hr/)** · President
-- **[toric.coaching](https://coaching.toric-usluge.hr/)** · Online powerlifting coach
+- Teaching assistant in Information Technology (SIT) at the **[University of Zadar](https://sit.unizd.hr/)**
+- PhD student at **[FER, University of Zagreb](https://www.fer.unizg.hr/)**, working on action quality assessment
+- Vice President and National Team Selector of the **[Croatian Powerlifting Federation](https://www.hpls-powerlifting.hr/o-nama)**
+- President of **[PLK Nabildani Mozak](https://plknabildanimozak.hr/)**
+- Online powerlifting coach at **[toric.coaching](https://coaching.toric-usluge.hr/)**
 
 ## Research
 
 My research is on action quality assessment: automatically judging how well a movement is performed from video, with powerlifting as the main use case.
 
-- **A Pilot Study of Action Quality Assessment with Vision-Language Models on Powerlifting Video Data**<br>J. Torić, M. Šarlija, L. Petrović · MIPRO Robotics, 2026 · [doi:10.1109/MIPROROBOTICS70521.2026.11761899](https://doi.org/10.1109/MIPROROBOTICS70521.2026.11761899)
+- **A Pilot Study of Action Quality Assessment with Vision-Language Models on Powerlifting Video Data**<br>J. Torić, M. Šarlija and L. Petrović, MIPRO Robotics 2026<br>[doi:10.1109/MIPROROBOTICS70521.2026.11761899](https://doi.org/10.1109/MIPROROBOTICS70521.2026.11761899)
 
 All publications are on [Google Scholar](https://scholar.google.com/citations?user=-V1Pv1AAAAAJ&hl=en).
 
