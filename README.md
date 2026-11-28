@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Josip Torić. Teaching assistant, PhD student and powerlifting coach. University of Zadar, FER Zagreb, Croatia." width="100%">
-</picture>
+<img src="assets/banner.svg" alt="Josip Torić. Teaching assistant, PhD student and powerlifting coach. University of Zadar and FER Zagreb, Croatia." width="100%">
 
 Teaching assistant in the undergraduate professional study programme in Information Technology (SIT) at the University of Zadar, and PhD student at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
 
