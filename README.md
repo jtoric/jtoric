@@ -5,9 +5,8 @@
 
 Teaching assistant in the undergraduate professional study programme in Information Technology (SIT) at the University of Zadar, and PhD student at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
 
-My research is on action quality assessment: automatically judging how well a movement is performed from video.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josiptoric/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-V1Pv1AAAAAJ&hl=en)
 
 ## Now
 
@@ -16,6 +15,14 @@ My research is on action quality assessment: automatically judging how well a mo
 - **[Croatian Powerlifting Federation](https://www.hpls-powerlifting.hr/o-nama)** · Vice President and National Team Selector
 - **[PLK Nabildani Mozak](https://plknabildanimozak.hr/)** · President
 - **[toric.coaching](https://coaching.toric-usluge.hr/)** · Online powerlifting coach
+
+## Research
+
+My research is on action quality assessment: automatically judging how well a movement is performed from video, with powerlifting as the main use case.
+
+- **A Pilot Study of Action Quality Assessment with Vision-Language Models on Powerlifting Video Data**<br>J. Torić, M. Šarlija, L. Petrović · MIPRO Robotics, 2026 · [doi:10.1109/MIPROROBOTICS70521.2026.11761899](https://doi.org/10.1109/MIPROROBOTICS70521.2026.11761899)
+
+All publications are on [Google Scholar](https://scholar.google.com/citations?user=-V1Pv1AAAAAJ&hl=en).
 
 ## Teaching
 
