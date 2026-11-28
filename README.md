@@ -18,11 +18,15 @@ Projects built during lectures and lab sessions. The course materials and reposi
 
 ## Web projects
 
-The code for these is private, but the sites are live. All three run on FastAPI, MongoDB and Vue 3.
+The code for these is private, but the sites are live. All of them run on FastAPI, MongoDB and Vue 3.
 
 - **[hpls-powerlifting.hr](https://www.hpls-powerlifting.hr/)**: website of the Croatian Powerlifting Federation, with news, competitions, national records, qualifying standards and club rankings.
 - **[sit.unizd.hr](https://sit.unizd.hr/)**: website of the Information Technology study programme at the University of Zadar.
 - **[ispit.hpls-powerlifting.hr](https://ispit.hpls-powerlifting.hr/)**: online written exam for national referees of the Croatian Powerlifting Federation.
+- **[svjetla.hpls-powerlifting.hr](https://svjetla.hpls-powerlifting.hr/)**: referee lights for competitions of the Croatian Powerlifting Federation. The three referees and the jury vote from their phones, and the decision is shown on a TV. Access is PIN-protected.
+- **[plknabildanimozak.hr](https://plknabildanimozak.hr/)**: website of the powerlifting club Nabildani Mozak from Biograd na Moru, with news, lifters' results and national records.
+- **[plkbehemot.hr](https://plkbehemot.hr/)**: website of the powerlifting club Behemot from Zadar, with news, lifters' results and national records.
+- **[kb-coaching.hr](https://kb-coaching.hr/)**: website of KB coaching, a fitness coaching business in Rijeka, with services, a price list and a sign-up form.
 
 ## Student work (FER)
 
