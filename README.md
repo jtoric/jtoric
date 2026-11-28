@@ -7,7 +7,7 @@ Teaching assistant in the undergraduate professional study programme in Informat
 
 ## Now
 
-- Teaching assistant in Information Technology (SIT) at the **[University of Zadar](https://sit.unizd.hr/)**
+- Teaching assistant in Information Technology (SIT) at the **[University of Zadar](https://sit.unizd.hr/profesor/6abee2e0a889a8b5ed45a1b1)**
 - PhD student at **[FER, University of Zagreb](https://www.fer.unizg.hr/)**, working on action quality assessment
 - Vice President and National Team Selector of the **[Croatian Powerlifting Federation](https://www.hpls-powerlifting.hr/o-nama)**
 - President of **[PLK Nabildani Mozak](https://plknabildanimozak.hr/)**
