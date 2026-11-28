@@ -4,6 +4,16 @@ Teaching assistant in the undergraduate professional study programme in Informat
 
 My research is on action quality assessment: automatically judging how well a movement is performed from video.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josiptoric/)
+
+## Now
+
+- **[University of Zadar](https://sit.unizd.hr/)** · Teaching assistant in Information Technology (SIT)
+- **[FER, University of Zagreb](https://www.fer.unizg.hr/)** · PhD student, action quality assessment
+- **[Croatian Powerlifting Federation](https://www.hpls-powerlifting.hr/o-nama)** · Vice President and National Team Selector
+- **[PLK Nabildani Mozak](https://plknabildanimozak.hr/)** · President
+- **[toric.coaching](https://coaching.toric-usluge.hr/)** · Online powerlifting coach
+
 ## Teaching
 
 Projects built during lectures and lab sessions. The course materials and repository READMEs are in Croatian.
