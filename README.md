@@ -18,11 +18,13 @@ Projects built during lectures and lab sessions. The course materials and reposi
 
 ## Web projects
 
-The code for these is private, but the sites are live. All of them run on FastAPI, MongoDB and Vue 3.
+The code for these is private, but the sites are live. Most of them run on FastAPI, MongoDB and Vue 3; toric.coaching uses FastAPI, PostgreSQL and Next.js.
 
 - **[sit.unizd.hr](https://sit.unizd.hr/)**: website of the Information Technology study programme at the University of Zadar.
 - **[hpls-powerlifting.hr](https://www.hpls-powerlifting.hr/)**: website of the Croatian Powerlifting Federation, with news, competitions, national records, qualifying standards and club rankings.
 - **[plknabildanimozak.hr](https://plknabildanimozak.hr/)**: website of the powerlifting club Nabildani Mozak from Biograd na Moru, with news, lifters' results and national records.
+- **[coaching.toric-usluge.hr](https://coaching.toric-usluge.hr/)**: my online powerlifting coaching (toric.coaching), with individual programming, video feedback on every session and competition preparation.
+- **[sailhouse.toric-usluge.hr](https://sailhouse.toric-usluge.hr/)**: website of Sailhouse Apartments in Biograd na Moru, in four languages, with an availability calendar and direct booking synced with Rentlio.
 - **[kb-coaching.hr](https://kb-coaching.hr/)**: website of KB coaching, a fitness coaching business in Rijeka, with services, a price list and a sign-up form.
 - **[plkbehemot.hr](https://plkbehemot.hr/)**: website of the powerlifting club Behemot from Zadar, with news, lifters' results and national records.
 - **[ispit.hpls-powerlifting.hr](https://ispit.hpls-powerlifting.hr/)**: online written exam for national referees of the Croatian Powerlifting Federation.
